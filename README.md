@@ -2,6 +2,8 @@
 
 <img alt ="my stats" src="https://github-readme-stats.vercel.app/api?username=antonyabira"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonyabira)](https://github.com//github-readme-stats)
+
 - 👀 I’m interested in web development, automation, and software engineering.
 - 🌱 I’m currently learning Python and cloud technologies.
 - 💞️ I’m looking to collaborate on open-source projects and automation tools.
