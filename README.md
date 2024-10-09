@@ -1,6 +1,6 @@
 # Hi, I am Antony 👋
 
-[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyabira)](https://github.com/antonyabira/github-readme-stats)
+[![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyabira&show_icons=true)](https://github.com/antonyabira/github-readme-stats)
 
 - 👀 I’m interested in web development, automation, and software engineering.
 - 🌱 I’m currently learning Python and cloud technologies.
